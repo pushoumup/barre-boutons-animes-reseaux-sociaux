@@ -2,7 +2,7 @@ barre-boutons-animes-reseaux-sociaux
 
 Author : Benjamin Guimond
 
-URI : http://pushoumupworld.net
+URI : http://push-infographiste.fr
 ====================================
 
 barre-boutons-animes-reseaux-sociaux
